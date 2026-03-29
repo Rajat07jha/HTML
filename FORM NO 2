@@ -28,7 +28,7 @@
         <input type="number" name="counter" id="exxperience" min="0" max="50">
         <br/>
         <br/>
-        <feildset>
+        <fieldset>
             <legend>Skills</legend>
 
             <label for="checkbox1">HTML</label>
@@ -40,7 +40,7 @@
             <label for="checkbox3">JS</label>
             <input type="checkbox" name="checkbox" id="checckbox3">
 
-        </feildset>
+        </fieldset>
         <br/>
         <br/>
         <label for="educationType">highest education</label>
@@ -51,7 +51,7 @@
         </select>
         <br/>
         <br/>
-        <feildset>
+        <fielset>
             <legend>Availability:</legend>
 
             <label for="radio1">fulltime</label>
@@ -62,7 +62,7 @@
             <input type="radio" name="radio" id="radio2">
             <br/>
             <br/>
-        </feildset>
+        </fieldset>
     <label for="textarea1">ADDITIONAL COMMENTS:</label>
         <br/>
         <textarea name="textarea1" id="textarea1" cols="30" rows="10"></textarea>
