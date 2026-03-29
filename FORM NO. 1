@@ -28,7 +28,7 @@
         </select>
         <br/>
         <br/>
-        <feildset>
+        <fieldset>
             <legend>Topics of Interest</legend>
 
             <label for="checkbox1">HTML</label>
@@ -40,7 +40,7 @@
             <label for="checkbox3">JS</label>
             <input type="checkbox" name="checkbox" id="checckbox3">
 
-        </feildset>
+        </fieldset>
         <label for="textarea1">COMMENTS:</label>
         <br/>
         <textarea name="textarea1" id="textarea1" cols="30" rows="10"></textarea>
