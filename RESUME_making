@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<body>
+    <div>
+
+        <div>
+            <h1>Rajat Jha</h1>
+            <p>Contact: <a href="xyz.com">rajatjha484@gmail.com</a></p>
+            <p>linkdIn: <a href="https://www.linkedin.com/in/rajat-jha">linkedin_account</a></p>
+            <p>GitHub: <a href="https://github.com/Rajat07jha">github_account</a></p>
+        </div>
+        <table>
+            <tr>
+                <td>
+                    <img src="WhatsApp Image 2026-03-11 at 12.49.13 (1).jpeg" width="200" height="200" alt="rajat jha pic">
+                </td>
+                <td>Motivated Computer Science and Engineering student specializing in Machine Learning and AI, with hands-on research experience in full-stack development and backend systems. Demonstrated leadership through National Cadet Corps and awarded Best Cadet in the North Eastern Region. Seeking ML/AI Engineer roles to apply strong algorithmic thinking and software development skills. </td>
+            </tr>
+        </table>
+        <section>
+            <h2>EDUCATION</h2>
+
+            <ul>
+                <li>Bachelors in technology cse from tezpur university</li>
+                <li>higher secondary from explore internation school</li>
+            </ul>
+
+        </section>
+
+        <section>
+            <h2>Work Experience</h2>
+            <h3>software engineer, microsoft</h3>
+            <p>nov 2025 to jan 2026</p>
+            <ul>
+                <li>what i did</li>
+                <li>what i got to learn</li>
+                <li>some other valuable insights</li>
+            </ul>
+        </section>
+        <section>
+            <h2>skills</h2>
+            <ul>
+                <li>java</li>
+                <li>python</li>
+                <li>linux</li>
+                <li>c</li>
+                <li>c++</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Achievements</h2>
+            <ul>
+                <li>some achievements</li>
+                <li>xyz</li>
+            </ul>
+        </section>
+        <section>
+            <h2>projects</h2>
+            <ul>
+                <li>In-Campus Goods Sharing System </li>
+                <p>•	Developed backend infrastructure for a campus-wide goods sharing platform using research-driven design principles. 
+•	Implemented data management modules to handle item listings, user requests, and transaction tracking. Telemedicine Application 
+</p>
+            </ul>
+        </section>
+        <section>
+            <h2>frequently asked questions</h2>
+            <details>
+                <summary>what are your hobbies?</summary>
+                <p>cricket,running,boxing</p>
+            </details>
+        </section>
+        <footer>
+            <p> &#169 2026 Rajat Jha. All rights reserved.</p>
+        </footer>
+
+</div>
+</body>
+</html>
